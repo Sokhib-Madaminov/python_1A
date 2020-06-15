@@ -1,2 +1,2 @@
 print("assalom Sohib")
-print("raxmat")
+print("raxmat_Salo,m")
